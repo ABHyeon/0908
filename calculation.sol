@@ -6,7 +6,7 @@ contract Example005 {
   }
     
     function add(uint a, uint b) returns (uint) {
-      uint result = a - b;
+      uint result = a + b;
       return result;
     }
     
